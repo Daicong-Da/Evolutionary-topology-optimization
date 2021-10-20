@@ -3,7 +3,8 @@ This document provides the 2D code of the Evolutionary Topology Optimization (ET
 It combines advantages of the evolutionary strategy in structural optimization and the level-set function (LSF) constructed by nodal sensitivity numbers,
 to tailor the topology based on each "point" of the design domain.
 
-If you use the code for your research, please cite our work:
+Da, Daicong, Liang Xia, Guangyao Li, and Xiaodong Huang. "Evolutionary topology optimization of continuum structures with smooth boundary representation." Structural and Multidisciplinary Optimization 57, no. 6 (2018): 2143-2159. https://link.springer.com/content/pdf/10.1007/s00158-017-1846-6.pdf
+
 @article{da2018evolutionary,
   title={Evolutionary topology optimization of continuum structures with smooth boundary representation},
   author={Da, Daicong and Xia, Liang and Li, Guangyao and Huang, Xiaodong},
